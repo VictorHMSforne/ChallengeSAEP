@@ -1,0 +1,17 @@
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\bin\Debug\DbTurma.mdf
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\bin\Debug\DbTurma_log.ldf
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\bin\Debug\ChallengeSAEP.exe.config
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\bin\Debug\ChallengeSAEP.exe
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\bin\Debug\ChallengeSAEP.pdb
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.FrmLogin.resources
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.exe
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.pdb
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.FrmRegistrar.resources
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.FrmPrincipal.resources
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.FrmCadastrarTurma.resources
+C:\Users\Aluno\Desktop\Chale\ChallengeSAEP\ChallengeSAEP\obj\Debug\ChallengeSAEP.FrmAtividade.resources
